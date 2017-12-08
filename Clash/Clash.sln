@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D3EA5AF4-50FA-FB77-CC11-358608B40381}") = "Clash", "Assembly-CSharp.csproj", "{29021E6A-EC46-9884-E9C1-E9481042BD04}"
+EndProject
+Project("{D3EA5AF4-50FA-FB77-CC11-358608B40381}") = "Clash", "Assembly-CSharp-Editor.csproj", "{B4123F73-D4CE-029E-831E-1FD539CACF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29021E6A-EC46-9884-E9C1-E9481042BD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29021E6A-EC46-9884-E9C1-E9481042BD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29021E6A-EC46-9884-E9C1-E9481042BD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29021E6A-EC46-9884-E9C1-E9481042BD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4123F73-D4CE-029E-831E-1FD539CACF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4123F73-D4CE-029E-831E-1FD539CACF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4123F73-D4CE-029E-831E-1FD539CACF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4123F73-D4CE-029E-831E-1FD539CACF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
